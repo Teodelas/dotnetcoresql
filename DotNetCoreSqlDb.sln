@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCoreSqlDb", "DotNetCoreSqlDb.csproj", "{D9612494-1C14-4F8A-9672-B6D1D847EE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9612494-1C14-4F8A-9672-B6D1D847EE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9612494-1C14-4F8A-9672-B6D1D847EE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9612494-1C14-4F8A-9672-B6D1D847EE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9612494-1C14-4F8A-9672-B6D1D847EE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476D5280-2957-470D-A06C-8E8835EA68A1}
+	EndGlobalSection
+EndGlobal
