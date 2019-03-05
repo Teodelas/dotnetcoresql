@@ -1,19 +1,6 @@
----
-services: app-service\web,app-service
-platforms: dotnet
-author: cephalin
----
+# .NET Core Sample for Azure App Service
 
-# .NET Core MVC sample for Azure App Service
+This is a sample application that will connect to an SQL server, create a DB (if needed), and use that DB for storage.
 
-This is a sample application that you can use to follow along with the tutorial at 
-[Build a .NET Core and SQL Database web app in Azure Web Apps for Containers](https://docs.microsoft.com/azure/app-service/containers/tutorial-dotnetcore-sqldb-app). 
-
-## License
-
-See [LICENSE](LICENSE.md).
-
-## Contributing
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+A connection string named 'DefaultConnection' must exist in App Service application settings
   
